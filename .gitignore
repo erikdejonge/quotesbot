@@ -322,3 +322,5 @@ $RECYCLE.BIN/
 .venv*
 
 log/
+allquotes.tsv
+.idea
